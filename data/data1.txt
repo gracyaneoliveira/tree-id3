@@ -1,9 +1,0 @@
-altura;nacionalidade;estadoCivil;Classe
-Baixo;Alemão;Solteiro;A
-Alto;Francês;Solteiro;A
-Baixo;Italiano;Solteiro;B
-Alto;Alemão;Solteiro;A
-Alto;Alemão;Casado;B
-Alto;Italiano;Solteiro;B
-Alto;Italiano;Casado;B
-Baixo;Alemão;Casado;B
